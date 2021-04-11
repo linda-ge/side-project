@@ -1,5 +1,5 @@
 # side-project
-This is a side project that will be designed, product-managed, and coded by myself.
+This is a side project that will be designed, product-managed, and coded (React front-end, Flask/Python back-end) by myself.
 
 # MVP
 ## Pt. 1
