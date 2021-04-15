@@ -5,5 +5,14 @@
 <body>
   <h1 style="font-family:'Arial'">Cat of the Day</h1>
   <img src="../static/my-app/src/scottish_fold.jpeg" alt="Gray Scottish Fold kitten">
+  <div id="root"></div>
 </body>
 </html>
+
+{% block app_content %}
+
+
+
+<script src="{{ url_for('static', filename='my-app/src/App.js') }}"
+
+{% endblock %}
