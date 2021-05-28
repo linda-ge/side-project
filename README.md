@@ -6,6 +6,7 @@ Created on Figma.
 
 <img width="900" alt="Cat Calendar concept" src="https://user-images.githubusercontent.com/34948365/120042637-558e9b00-bfbf-11eb-96d0-e5e891f02fe8.png">
 <img width="900" alt="Wireframe design" src="https://user-images.githubusercontent.com/34948365/120043542-ffbaf280-bfc0-11eb-8ea4-651f58cf7b59.png">
+<img width="700" alt="Responsive view (768px width)" src="https://user-images.githubusercontent.com/34948365/120045496-fc296a80-bfc4-11eb-8f5c-0fa8b4fdf1f0.png">
 
 
 # MVP
