@@ -4,8 +4,8 @@ This is a side project that will be designed, product-managed, and coded (React 
 # Concept and Wireframes
 Created on Figma.
 
-<img width="415" alt="Screen Shot 2021-05-28 at 5 13 59 PM" src="https://user-images.githubusercontent.com/34948365/120042562-2bd57400-bfbf-11eb-9d96-605307a04662.png">
-<img width="307" alt="Screen Shot 2021-05-28 at 5 13 54 PM" src="https://user-images.githubusercontent.com/34948365/120042567-2ed06480-bfbf-11eb-99bf-2d969bf7513a.png">
+<img width="700" alt="Cat Calendar concept" src="https://user-images.githubusercontent.com/34948365/120042562-2bd57400-bfbf-11eb-9d96-605307a04662.png">
+<img width="700" alt="Wireframe design" src="https://user-images.githubusercontent.com/34948365/120042567-2ed06480-bfbf-11eb-99bf-2d969bf7513a.png">
 
 
 # MVP
