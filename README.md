@@ -7,8 +7,11 @@ Created on Figma.
 Concept
 ![Intro to Cat Calendar](https://user-images.githubusercontent.com/34948365/120084735-9225c980-c087-11eb-8540-a26eb7de0a12.png)
 
+
 Desktop - MVP
 ![Desktop - 1 - MVP](https://user-images.githubusercontent.com/34948365/120084737-9225c980-c087-11eb-8546-8195e4eeb53c.png)
+
+
 
 Tablet view (responsive)
 ![iPad mini - 1](https://user-images.githubusercontent.com/34948365/120084736-9225c980-c087-11eb-87de-18e06bc5e8db.png)
