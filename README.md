@@ -4,9 +4,15 @@ This is a side project that will be designed, product-managed, and coded (React 
 # Concept and Wireframe Designs
 Created on Figma.
 
+![Intro to Cat Calendar](https://user-images.githubusercontent.com/34948365/120084735-9225c980-c087-11eb-8540-a26eb7de0a12.png)
+![Desktop - 1 - MVP](https://user-images.githubusercontent.com/34948365/120084737-9225c980-c087-11eb-8546-8195e4eeb53c.png)
+![iPad mini - 1](https://user-images.githubusercontent.com/34948365/120084736-9225c980-c087-11eb-87de-18e06bc5e8db.png)
 <img width="900" alt="Cat Calendar concept" src="https://user-images.githubusercontent.com/34948365/120042637-558e9b00-bfbf-11eb-96d0-e5e891f02fe8.png">
 <img width="900" alt="Wireframe design" src="https://user-images.githubusercontent.com/34948365/120043542-ffbaf280-bfc0-11eb-8ea4-651f58cf7b59.png">
 <img width="500" alt="Responsive view (768px width)" src="https://user-images.githubusercontent.com/34948365/120045561-2e3acc80-bfc5-11eb-9886-eee595cbf86b.png">
+
+
+
 
 
 # MVP
